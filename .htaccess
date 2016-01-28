@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(resume|curriculum|linkedin|github)$ /redirect.php?r=$1 [L]
