@@ -18,3 +18,6 @@ It is basically the same principle as url shorteners except that you own the URL
 * To enable Google Analytics tracking, you must replace the tracking code "UA-xxxxxxxx-1" with your own. This code is provided by Google Analytics itself.
 * While waiting for the redirection, the script will display a spinning loading wheel. This javascript comes from https://fgnass.github.io/spin.js/. Thanks.
 * This script use the Event Tracking system from Google Analytics. More info: https://developers.google.com/analytics/devguides/collection/analyticsjs/events
+
+### Demo
+If you visit the page http://skar.fr/github, you will be redirected to this github profile, and i should have a record of your visit in my Google Analytics
