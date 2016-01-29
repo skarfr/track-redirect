@@ -12,7 +12,7 @@ It is basically the same principle as url shorteners except that you own the URL
 * A Google Analytics account
 * spin.min.js from https://fgnass.github.io/spin.js/
 
-### How does it works ?
+### How does it work ?
 * To create URLs on your domain and link them to "redirect.php", you must edit the file ".htaccess". If your URL is http://johndomain.doe/lolilol, then you must add "|lolilol" at the "RewriteRule" line, within existing parenthesis. I provided few examples in the file.
 * To setup your URL redirection, you must edit the file "redirect.php". All you have to do is edit/add a "case" within the "switch". I provided few examples in the file.
 * To enable Google Analytics tracking, you must replace the tracking code "UA-xxxxxxxx-1" with your own. This code is provided by Google Analytics itself.
