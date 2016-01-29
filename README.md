@@ -4,7 +4,7 @@ It is basically the same principle as url shorteners except that you own the URL
 
 ### Examples
 * John Doe wants to add on his linkedIn profile, a link to his pdf resume. Using this script, he will be able to redirect an url such as http://johndomain.doe/resume to the exact pdf location, and track all visits on his Google Analytics account.
-* John Doe wants to share his gitHub address on his blog. Using this script, he will be able to redirect an url such as http://johndomain.doe/github to his real gitHub address, and track all visits on his Google Analytics account.
+* I want to share my gitHub address on my blog. Using this script, I am able to redirect an url such as http://skar.fr/github to my real gitHub address, and track all visits on Google Analytics.
 
 ### Requirements
 * URL Rewriting enabled on your web server
