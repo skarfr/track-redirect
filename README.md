@@ -4,7 +4,7 @@ It is basically the same principle as url shorteners except that you own the URL
 
 ### Examples
 * John Doe wants to add on his linkedIn profile, a link to his pdf resume. Using this script, he will be able to redirect an url such as http://johndomain.doe/resume to the exact pdf location, and track all visits on his Google Analytics account.
-* I want to share my gitHub address on my blog. Using this script, I am able to redirect an url such as http://skar.fr/github to my real gitHub address, and track all visits on Google Analytics.
+* I want to share my gitHub address on my blog. Using this script, I am able to redirect an url such as http://r.skar.fr/github to my real gitHub address, and track all visits on Google Analytics.
 
 ### Requirements
 * URL Rewriting enabled on your web server
@@ -20,4 +20,4 @@ It is basically the same principle as url shorteners except that you own the URL
 * This script use the Event Tracking system from Google Analytics. More info: https://developers.google.com/analytics/devguides/collection/analyticsjs/events
 
 ### Demo
-If you visit the page http://skar.fr/github, you will be redirected to this github profile, and i should have a record of your visit in my Google Analytics
+If you visit the page http://r.skar.fr/github, you will be redirected to this github profile, and i should have a record of your visit in my Google Analytics
